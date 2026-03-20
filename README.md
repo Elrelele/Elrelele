@@ -16,7 +16,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 ## My Skills Include
 
-<h4> Languages </h4>
+<h4> Languages & Frameworks </h4>
 <span> 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white">
 </span>
